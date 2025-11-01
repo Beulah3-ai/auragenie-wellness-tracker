@@ -8,7 +8,7 @@ AuraGenie is an AI-powered wellness platform designed to help students, creators
 ---
 
 ## 🚀 Live Demo
-👉 [Visit AuraGenie Wellness Tracker](https://your-live-link-here)
+👉 [Visit AuraGenie Wellness Tracker](https://wellness-tracker-avatar.deploypad.app/)
 
 ---
 
